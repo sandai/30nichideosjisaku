@@ -46,7 +46,7 @@ cd ../
 mkdir -p trash
 mv -f $PRO ./trash
 mv -f $TOL ./trash
-rm -rf $SANDAI
+mv -f $SANDAI ./trash
 cd trash
 echo "このディレクトリは開発に必要の無いファイル郡です。削除しても構いません。" > readme.txt
 
