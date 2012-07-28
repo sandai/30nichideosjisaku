@@ -187,7 +187,7 @@ helloos.imgをバイナリで書けという鬼畜命令が下るところです
 	- Mac版のtolset配布ページ
 - [Q - [kju:]](http://www.kju-app.org/)
 	- Mac版のQEMU配布サイト
-- [http://www.suavetech.com/0xed/0xed.html](http://www.suavetech.com/0xed/0xed.html)
+- [0xED](http://www.suavetech.com/0xed/0xed.html)
 	- バイナリエディタ配布サイト
 	
 # 7. 連絡先
