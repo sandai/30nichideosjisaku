@@ -68,7 +68,7 @@ curl〜からの部分をコピーして、ターミナルに貼り付けて実�
 
 実行して以下のように表示されていれば成功です。
 
-![image](https://github.com/sandai/madever/raw/30nichideosjisaku/bin/qemu.png)
+![image](https://github.com/sandai/madever/raw/30nichideosjisaku/bin/img/qemu.png)
 
 # 4. ちんぷんかんぷんな人のための最初だけ講座
 
@@ -79,7 +79,7 @@ curl〜からの部分をコピーして、ターミナルに貼り付けて実�
 
 helloos.imgをバイナリで書けという鬼畜命令が下るところですね。まあ正直わからなかったらやらなくてもいいんですが、0xEDエディタを使って書いてください。
 
-![image](https://github.com/sandai/madever/raw/30nichideosjisaku/bin/0xed.png)
+![image](https://github.com/sandai/madever/raw/30nichideosjisaku/bin/img/0xed.png)
 
 こんな感じにすると書籍通りになります。ウィンドウの幅を調節して右側を、
 
