@@ -29,7 +29,7 @@
  	2. tolsetOSX-070221.dmgという名前のファイルをダウンロードして解凍
  	3. 解凍したデータのうち`z_toolsディレクトリ`を`HariboteOSディレクトリ`にコピー
 4. Q.appをダウンロード
-	1. ダウンロードページ→[http://www.kju-app.org/](http://www.kju-app.org/)
+	1. ダウンロードページ→[http://q-emulator.en.uptodown.com/mac](http://q-emulator.en.uptodown.com/mac)
 	2. 「Download - Free」をクリックしてダウンロードして解凍
 		- (現時点でバージョンはQ-0.9.0a89)
 	3. 解凍したデータのうち、`Q.app`を`HariboteOSディレクトリ`にコピー
@@ -55,7 +55,7 @@
 
 それでシェルスクリプトの実行ですがターミナルを開いてください。ターミナルを知らない人は「アプリケーション＞ユーティリティ＞ターミナル」で見つかると思います。そして次の通りに実行してください。
 
->$ curl https://raw.github.com/sandai/30nichideosjisaku/master/bin/install.sh | sh
+>$ curl https://raw.githubusercontent.com/sandai/30nichideosjisaku/master/bin/install.sh | sh
 
 curl〜からの部分をコピーして、ターミナルに貼り付けて実行するだけです。$を入れないようにしてください。
 
